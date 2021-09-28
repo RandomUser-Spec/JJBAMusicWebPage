@@ -1,0 +1,65 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Patrick Hand SC', cursive;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+body {
+    background-size: cover;
+}
+
+.div_speed {
+    float: left;
+}
+
+.div_speed_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_volume {
+    float: right;
+}
+
+.div_volume_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume {
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas {
+    border-radius: 25px;
+    border: 5px solid white;
+    margin-top: 100px;
+
+}
+
+.play_button {
+    width: 130px;
+    font-size: 25px;
+}
+
+.pause_button {
+    width: 130px;
+    font-size: 25px;
+}
+
+.stop_button {
+    width: 130px;
+    font-size: 25px;
+}
